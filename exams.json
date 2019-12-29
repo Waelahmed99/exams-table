@@ -5,20 +5,28 @@
       "name": "Practical Exams"
     },
     {
-      "date": "2019-12-19",
-      "name": "Graph Theory"
+      "date": "2020-1-4",
+      "name": "Network"
     },
     {
-      "date": "2021-12-19",
-      "name": "Problem Solving"
+      "date": "2020-01-06",
+      "name": "Computer Graphics"
     },
     {
-      "date": "2025-02-19",
-      "name": "Dynamic Programming"
+      "date": "2020-01-12",
+      "name": "Assembly Language"
     },
     {
-      "date": "2025-12-19",
-      "name": "Machine Learning"
+      "date": "2020-01-15",
+      "name": "Algorithms"
+    },
+    {
+      "date": "2020-01-19",
+      "name": "Concepts of PL"
+    },
+    {
+      "date": "2020-01-22",
+      "name": "Web programming"
     }
   ]
 }
