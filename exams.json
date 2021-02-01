@@ -2,11 +2,11 @@
   "exams": [
     {
       "date": "2021-2-20",
-      "name": "OS practical"
+      "name": "Operating systems practical"
     },
     {
       "date": "2021-2-22",
-      "name": "Image practical"
+      "name": "Image processing practical"
     },
     {
       "date": "2021-2-24",
@@ -34,7 +34,7 @@
     },
     {
       "date": "2021-3-14",
-      "name": "Data communications"
+      "name": "Data communication"
     },
     {
       "date": "2021-3-23",
