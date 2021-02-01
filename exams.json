@@ -1,6 +1,22 @@
 {
   "exams": [
     {
+      "date": "2021-2-20",
+      "name": "OS practical"
+    },
+    {
+      "date": "2021-2-22",
+      "name": "Image practical"
+    },
+    {
+      "date": "2021-2-24",
+      "name": "Python practical"
+    },
+    {
+      "date": "2021-2-25",
+      "name": "Network practical"
+    }
+    {
       "date": "2021-2-28",
       "name": "Operating systems"
     },
@@ -19,6 +35,10 @@
     {
       "date": "2021-3-14",
       "name": "Data communications"
+    }
+    {
+      "date": "2021-3-23",
+      "name": "Mining practical"
     }
   ]
 }
